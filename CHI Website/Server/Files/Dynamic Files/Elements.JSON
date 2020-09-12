@@ -1,0 +1,50 @@
+
+
+{
+    
+    
+"WebText":[{
+
+    "elements":[{
+            "services":[{
+                "Heading":"Our main focus right now is",
+                "text":["Service 1Concrete", "Service 2Drywall", "Service 3Paint"]
+            }],
+
+            "About us":[{
+                "Heading": "About Us",
+                "Text":["We are this is the about us text good job you did it", "About us 2", "About us 3"]
+            }],
+
+            "Contact":[{
+                "Heading": "Want a free Estimate? Got questions? Contact us by filling out the information below or call 307-321-9688!",   
+                "Text":[null]
+            }],
+            
+            "Locations":[{
+                "Heading": "We currently operate in the following locations.",
+                "Text":["Rawlins, WY", "Saratoga, WY", "Billings, MT"]
+            }]
+    }],
+
+    "Contacts":[{
+            "Isaac Schlaht":{
+                "Phone": "(406)-561-2546",
+                "Location": "Billings, Montana",
+                "Title": "Founder/Owner",
+                "Position": "Super Intendent"
+            },
+
+            "Larretta Ackerman"{
+                "Phone": "(307)-321-9688",
+                "Location": "Rawlins, Wyoming",
+                "Title": "Founder/Owner",
+                "Position": "Super Intendent"
+            }
+    }]
+
+}]
+
+
+}
+
